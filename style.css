@@ -11,3 +11,10 @@ body {
 strong {
   color: #32F486;
 }
+span {
+  color: #13c15f;
+  font-weight: bold;
+}
+b {
+  color: #d880fc;
+}

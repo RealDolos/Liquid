@@ -18,3 +18,8 @@ span {
 b {
   color: #d880fc;
 }
+.floater {
+  display: block;
+  margin: 1em;
+  float: right;
+}
